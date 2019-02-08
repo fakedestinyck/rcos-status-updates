@@ -1,24 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+- This past week, I was able to fix a small problem on the footer of yacs. It was a wording issue. Pull requests [here](https://github.com/YACS-RCOS/yacs/pull/404). Although it was not a big issue, I think it's a good start for this semester.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+- After my accomplishments from last week, I plan to work on [this issue](https://github.com/YACS-RCOS/yacs/issues/377), which fix the problem that when a user clicks on a course, if all sections are closed or conflicted with current schedule, it's just not selected without notify the user. This behavior is confusing and needs to be altered.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+- Good for now.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+- The issue I am currently working is the milestone, so I should probably fix it in a week.
