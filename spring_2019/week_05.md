@@ -6,7 +6,7 @@ I made this [pull requests](https://github.com/YACS-RCOS/yacs/pull/414).
 
 ## This Week's Plan
 
-- This week, I am working on [this issue](https://github.com/YACS-RCOS/yacs/issues/398). This issue has for sub-issues.
+- This week, I am working on [this issue](https://github.com/YACS-RCOS/yacs/issues/398). This issue has four sub-issues.
 
 ## Anything Blocking?
 
