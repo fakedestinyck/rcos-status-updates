@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-- This past week, this [pr](https://github.com/YACS-RCOS/yacs/pull/432) is merged. I also made another [pr] (https://github.com/YACS-RCOS/yacs/pull/435), but it needs some changes.
+- This past week, this [pr](https://github.com/YACS-RCOS/yacs/pull/432) is merged. I also made another [pr](https://github.com/YACS-RCOS/yacs/pull/435), but it needs some changes.
 
 ## This Week's Plan
 
